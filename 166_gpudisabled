@@ -23926,6 +23926,3 @@ e820 map has 12 items:
 enter handle_19:
   NULL
 Booting from Hard Disk..Booting from 0000:7c00
-.
-BIOS drive C: is disk0
-BIOS drive D: is disk1
